@@ -2,7 +2,7 @@
 
 ### Junior Software Engineer with a data and machine-learning focus
 
-Career changer with 8 years’ experience across quantitative finance, credit risk analysis and lending, including banker/relationship manager roles at CBA, NAB and Westpac, plus specialist property finance lenders in London.
+Career changer with 8 years’ experience across quantitative finance, credit risk analysis and lending, including banker/relationship manager roles at CBA, NAB and Westpac, plus specialist private lenders in London.
 
 I’m now focused on software engineering, with a particular interest in AI/ML and data engineering, underpinned by a BSc in Statistics with distinction-level results.
 
